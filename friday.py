@@ -1,13 +1,13 @@
-import pyttsx3
+import pyttsx3 #pip install pyttsx3 
 import datetime
-import speech_recognition as sr
+import speech_recognition as sr#pip install pyaudio #pip install SpeechRecognition
 import wikipedia
 import smtplib
 import webbrowser as wb
 import os
-import pyautogui
-import psutil
-import pyjokes
+import pyautogui #pip install pyautogui
+import psutil #pip install pyutil
+import pyjokes #pip install pyjokes
 
 
 engine = pyttsx3.init()
